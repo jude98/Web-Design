@@ -1,0 +1,17 @@
+body{
+    margin-top: 100px;
+    background: #333;
+    color: #ffffff;
+}
+
+#output1{
+    position: relative;
+}
+
+
+#output1, #output2{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 20rem;
+}
