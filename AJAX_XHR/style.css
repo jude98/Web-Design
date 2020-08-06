@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: gray;
+}
+
+#allUsers{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    
+    height: 100vh;
+}
+
+.users{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.users ul{
+    list-style: none;
+    text-align: center;
+    margin-top: 10px; 
+    color: #ffffff;
+}
+
+.users ul li{
+   
+}
