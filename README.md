@@ -6,4 +6,4 @@ These are some webpages I created to study front-end web development using html5
    - Responsive web page for [photography site](https://jude98.github.io/Web-Design/Photography)
    - Responsive web page to [filter contacts](https://jude98.github.io/Web-Design/Materilaze)
    - Responsive web page for [simple weight converter](https://jude98.github.io/Web-Design/Calculator)
-   - [Digital clock](https://jude98.github.io/Web-Design/Clock) using javasrcript 
+   - [Digital clock](https://jude98.github.io/Web-Design/Clock) using javasrcript which shows time in both format
